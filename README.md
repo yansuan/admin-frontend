@@ -1,1 +1,1 @@
-# admin-frontend
+# go-admin-frontend
